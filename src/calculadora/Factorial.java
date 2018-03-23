@@ -10,5 +10,7 @@ package calculadora;
  * @author PCGustso
  */
 public class Factorial {
+    int a,b;
+    //atributos agregados
     //nueva clase
 }
